@@ -257,6 +257,13 @@ Repository: [NetFun-ios-app](https://github.com/max6363/NetFun-ios-app)
 Just Clone and follow instructions of README file.
 
 
+## References
+* https://www.swift.org/server/
+* https://www.raywenderlich.com/11555468-getting-started-with-server-side-swift-with-vapor-4
+* https://dev.to/bulsyusuf/how-to-use-the-backend-for-frontend-pattern-in-your-mobile-app-architecture-1fhi
+* https://www.dotconferences.com/2020/02/tim-condon-bffs-for-swift
+* https://www.youtube.com/watch?v=G_4YfwJHcKI
+
 ## Planned + Future Tasks
 
 :white_check_mark: setup using [vapor](https://github.com/vapor/vapor)
