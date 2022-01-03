@@ -274,4 +274,6 @@ Just Clone and follow instructions of README file.
 
 :white_large_square: implement authentication + accesstoken
 
+:white_large_square: docker setup
+
 
